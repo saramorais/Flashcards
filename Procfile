@@ -1,1 +1,1 @@
-web: node ./bin/www && cd client && npm run build
+web: node ./bin/www
