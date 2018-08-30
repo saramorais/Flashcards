@@ -1,5 +1,7 @@
 # Flashcards
 
+https://intense-forest-17026.herokuapp.com/
+
 To run locally:
 
 * Make sure you have install and run PostgreSQL server
