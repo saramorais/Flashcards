@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "saramorais",
+    "password": null,
+    "database": "testdelete",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "saramorais",
+    "password": null,
+    "database": "testdelete",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "saramorais",
+    "password": null,
+    "database": "testdelete",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

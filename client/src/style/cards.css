@@ -1,0 +1,20 @@
+.list {
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #e9e9e9;
+  border-radius: 5px;
+}
+
+.game {
+  text-align: center;
+  margin: 15px auto;
+  /*padding: 100px 0;*/
+  border: 1px solid #e9e9e9;
+  border-radius: 5px;
+  height: 200px;
+  overflow: auto;
+}
+
+.game-button {
+  text-align: center !important;
+}
